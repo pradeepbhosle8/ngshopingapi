@@ -12,5 +12,291 @@
 "gender": "m",
 "dob": "1985-06-11"
 }
-]
+],
+"category_mst":[
+  {
+    "cat_id":"1",
+    "category":"Html"
+  },
+  {
+    "cat_id":"2",
+    "category":"Angular"
+  },
+  {
+    "cat_id":"3",
+    "category":"Graphics"
+  },
+  {
+    "cat_id":"4",
+    "category":"PHP"
+  }
+  
+  ],
+  "education":[
+   {
+    "educ_id": "1",
+    "title": "B.Sc. (Botany)",
+    "university": "Mumbai University (II Class) Bhavans College",
+    "description": "Graduate of Botany. ",
+    "passing_year": "2009-06-11 21:10:00"
+    },
+    {
+    "educ_id": "2",
+    "title": "Graphic And Web Designing ",
+    "university": "Shankar Multimedia",
+    "description": "I am completed the course in Graphics & web Designing .",
+    "passing_year": "2010-11-17 21:14:00"
+    }
+    ],
+    "expreience":[
+      {
+"exprience_id": "1",
+"start_year": "2016-09-10 16:12:00",
+"end_year": "2018-12-25 17:12:00",
+"exprience_title": "Freelance Web Designer ",
+"office_name": "Freelancer",
+"exprience_description": "•\tClient: Aaroh Consultancy Services\no\tConvert photoshop layout to web pages using HTML, SCSS, and JAVASCRIPT, BOOTSTRAP Theme. \no\tLink: http://pradeepbhosle.lifekeepteaching.com/projects/AarohConsultancy/\n•\tInvoice pages requires team using HTML, CSS\n•\tEmailer pages requires team using HTML, CSS\n•\tTeam UI Developed and implemented static files.\n•\tOwn portfolio website using Angular cli, slim Framework, HTML, SCSS, JQUERY, JAVASCRIPT.\n•\tBuild standard websites in CMS  \n•\tCreating responsive, cross-browser web layouts from PSD templates (PSD to HTML to WordPress): https://www.debrasearle.com/\n"
+},
+{
+"exprience_id": "2",
+"start_year": "2015-09-01 16:14:00",
+"end_year": "2016-09-09 17:12:00",
+"exprience_title": "Craftsvilla.com [ Web Designer] ",
+"office_name": "Craftsvilla.com",
+"exprience_description": "1 year, 9 days,  working on Craftsvilla.com Pvt Ltd as a Lot of experience this company static Website, angular,  WordPress, E-commerce . Responsible for all festival Home page changes as per requirement using jQuery plugins, grid, some JavaScript events. base on eCommerce company. Responsible for billing procedure static pages. and products fetch using ajax on static page.\n"
+},
+{
+"exprience_id": "3",
+"start_year": "2013-07-22 15:12:00",
+"end_year": "2015-08-29 14:12:00",
+"exprience_title": "Unotech Software Pvt Ltd. [ UI Developer]",
+"office_name": "Unotech Software Pvt Ltd",
+"exprience_description": "2 years, 1 month, working on Unotech Software Pvt Ltd as a Responsible for website as well as browser compatibility.\nResponsible Mahindra Finance and Mahindra Insurance Brokers portal client handle fronted Design.\nResponsible BSE-Document Management System-Portal Design.\nResponsible stepathlon social event web Design.\nResponsible Klip.in E-Commerce base design. \n"
+},
+{
+"exprience_id": "4",
+"start_year": "2010-11-18 01:30:00",
+"end_year": "2012-06-04 02:30:00",
+"exprience_title": "ROBOCOM (Icare4life) [ Junior Web Designer]",
+"office_name": "ROBOCOM pvt ltd",
+"exprience_description": "1 year, 6 months, working on ROBOCOM pvt ltd as Fresher  \nResponsible for Website, PSD to HTML, Logo Design, Banner. some ref. site below\nResponsible Ganpati Transport Client website. http://www.ganpatitransport.com/\nResponsible http://www.ameypandya.com/ Website Design.\nResponsible http://www.indiantalents.com/ Website Design.\nResponsible http://www.robocomindia.com/ pages design changes.\nResponsible http://www.iconnectsmart.com/ page design PSD to HTML, CSS, jQuery, JavaScript.\nResponsible for all browser compatibility. \n"
+},
+{
+"exprience_id": "5",
+"start_year": "2010-04-09 14:12:00",
+"end_year": "2010-10-27 16:12:00",
+"exprience_title": "Max Multimedia. [ Junior Graphic Designer]",
+"office_name": "Max Multimedia pvt led",
+"exprience_description": "6 months, 18 days working on Max Multimedia pvt led as a Responsible for Photoshop Cropping and Touch-up jewelry, necklace, ring and old to new products in photoshop."
 }
+      ],
+      "pages":[
+        {
+"page_id": "1",
+"page_title": "About Me",
+"page_content": "<p><strong><span style=\"font-size:16px\">I am a Front-end Developer,</span> </strong>&nbsp;graduate of Botany, and that days side by side learning Graphic and Web Designer. I have more than 6 years commercial experience providing Web Designer,&nbsp; Responsive websites, Graphics&nbsp;and exceptional user experience.</p>\n\n<h3><strong>WHAT I DO</strong></h3>\n\n<p>I like&nbsp;responsive Web design, single page applications andmanaging complex e-commerce sites and internal frameworks</p>\n\n<p><strong>Front-end</strong></p>\n\n<ul>\n\t<li><em>HTML, CSS, SASS, JAVASCRIPT, JQUERY, GULP JS, GIT, ANGULAR&nbsp;CLI, BOOTSTRAP,&nbsp;</em></li>\n</ul>\n\n<p><strong>Back-end</strong></p>\n\n<ul>\n\t<li><em>PHP , Slim rest php api, Node js express js json api,&nbsp; mysql</em></li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+"date": "2019-01-02 21:02:00"
+},
+{
+"page_id": "2",
+"page_title": "Get in touch",
+"page_content": "<p>Let&#39;s make something awesome together</p>\n",
+"date": "2019-01-02 21:25:00"
+}
+          ],
+  "portfolio":[
+    {
+"port_id": "1",
+"cat_id": "1",
+"caption": "Ganpati Transport",
+"port_img": "ganpatitransport.jpg",
+"client": "Ganpati Tranport ",
+"date": "2011-01-03 14:12:00",
+"skill": "HTML, CSS,  Jquery, Falsh8 ",
+"description": "<p>Ganpati Transport is a static website.</p>\n\n<ol>\n\t<li>Responsibility Html, Css, Flash 8, Jquery&nbsp;</li>\n\t<li>Design Html table structure helping tools Dreamweaver, flash8.</li>\n\t<li>My responssiblity is build a table structrue, animation using flash, and some pdf file udate daily.&nbsp; &nbsp;</li>\n</ol>\n",
+"visit_website": "http://ganpatitransport.com",
+"category": "html"
+},
+{
+"port_id": "2",
+"cat_id": "1",
+"caption": "geetu.in [old version] web site",
+"port_img": "geetu.jpg",
+"client": "geetu.in",
+"date": "2011-03-13 16:03:00",
+"skill": "HTML, CSS,  Jquery, JAVASCRIPT",
+"description": "<p>OLD VERSION SITE DESIING</p>\n",
+"visit_website": "http://www.geetu.in/",
+"category": "html"
+},
+{
+"port_id": "3",
+"cat_id": "1",
+"caption": "indiantalents",
+"port_img": "indiantalents.jpg",
+"client": "indiantalents",
+"date": "2011-07-10 17:20:00",
+"skill": "HTML, CSS,  JQUERY",
+"description": "<p>This web design, logo design using HTML, CSS, JQUERY AND GRAPHIC PHOTOSHOP, CORAL-DRAW</p>\n",
+"visit_website": "http://www.indiantalents.com/",
+"category": "html"
+},
+{
+"port_id": "4",
+"cat_id": "1",
+"caption": "avinashnaik",
+"port_img": "avinashnaik.jpg",
+"client": "avinashnaik",
+"date": "2011-10-24 16:21:00",
+"skill": "HTML, CSS, JQUERY",
+"description": "<p>Responsibility Web Designing skill using HTML, CSS, JQUERY</p>\n",
+"visit_website": "http://www.avinashnaik.in/",
+"category": "html"
+},
+{
+"port_id": "6",
+"cat_id": "3",
+"caption": "indiantalents",
+"port_img": "IndianTalentslogo.png",
+"client": "indiantalents",
+"date": "2011-12-05 16:05:00",
+"skill": "Photshop, CorelDRAW, illustrator",
+"description": "<p>Logo making Photshop, Coral&nbsp;</p>\n",
+"visit_website": "http://www.indiantalents.com/",
+"category": "graphic"
+},
+{
+"port_id": "7",
+"cat_id": "1",
+"caption": "iconnectsmart",
+"port_img": "iconnectsmart.jpg",
+"client": "iconnectsmart",
+"date": "2019-03-12 16:45:00",
+"skill": "HTML [TABLE], CSS, JAVASCRIPT",
+"description": "<p>Responsibility Web site skill using HTML, CSS, JAVASCRIPT</p>\n",
+"visit_website": "http://www.iconnectsmart.com/",
+"category": "html"
+},
+{
+"port_id": "8",
+"cat_id": "1",
+"caption": "maujmasti RoboCom",
+"port_img": "robocomindiamaujmasti.jpg",
+"client": "RoboCom",
+"date": "2012-08-21 14:22:00",
+"skill": "Photoshop, Illustrator, Html, css",
+"description": "<p>This web site login page create by me with caharacter and some images skill unsing photshop illustrator, Html, css</p>\n",
+"visit_website": "http://www.robocomindia.com/maujmasti/",
+"category": "html"
+},
+{
+"port_id": "9",
+"cat_id": "1",
+"caption": "lions323a3",
+"port_img": "lions323a3.jpg",
+"client": "lions323a3",
+"date": "2012-01-23 17:20:00",
+"skill": "HTML, CSS",
+"description": "<p>This is template my skill using small section create skill using html css</p>\n",
+"visit_website": "http://www.lions323a3.com/lions/LionsHome.aspx",
+"category": "html"
+},
+{
+"port_id": "10",
+"cat_id": "1",
+"caption": "icare4life",
+"port_img": "icare4life.jpg",
+"client": "icare4life",
+"date": "2019-08-21 16:05:00",
+"skill": "Photoshope, Html, css",
+"description": "<p>this is portal my skill section create skill unsing photoshop, html, css</p>\n",
+"visit_website": "http://www.icare4life.com/",
+"category": "html"
+},
+{
+"port_id": "11",
+"cat_id": "1",
+"caption": "ideaost",
+"port_img": "ideaost.jpg",
+"client": "ideaost",
+"date": "2012-10-16 16:20:00",
+"skill": "HTML, CSS",
+"description": "<p>This site Only login page create not include server related static login page, logo and color are provide to&nbsp;ideaost. skill using html css, and small sections.</p>\n",
+"visit_website": "http://www.ideaost.com/Account/Login.aspx?ReturnUrl=%2f",
+"category": "html"
+},
+{
+"port_id": "12",
+"cat_id": "1",
+"caption": "jetking.iconnectsmart.com",
+"port_img": "jetking.jpg",
+"client": "jetking.iconnectsmart.com",
+"date": "2012-10-16 16:50:00",
+"skill": "HTML [Table], CSS",
+"description": "<p>This website is table formate skill using html, css</p>\n",
+"visit_website": "jetking.iconnectsmart.com",
+"category": "html"
+},
+{
+"port_id": "13",
+"cat_id": "1",
+"caption": "castinhollywood",
+"port_img": "castinhollywood.jpg",
+"client": "castinhollywood",
+"date": "2014-01-25 16:30:00",
+"skill": "Wordpress ",
+"description": "<p>Skill Using&nbsp;wordpress. Provide Html, css template convert to Wordpress</p>\n",
+"visit_website": "https://castinhollywood.com/",
+"category": "html"
+},
+{
+"port_id": "14",
+"cat_id": "1",
+"caption": "debrasearle",
+"port_img": "debrasearle.jpg",
+"client": "debrasearle",
+"date": "2014-03-19 14:22:00",
+"skill": "Wordpress",
+"description": "<p>Skill Using wordpress. Provide Html, css template convert to Wordpress</p>\n",
+"visit_website": "https://www.debrasearle.com/",
+"category": "html"
+},
+{
+"port_id": "15",
+"cat_id": "1",
+"caption": "gomobilityscooters",
+"port_img": "gomobilityscooters.jpg",
+"client": "gomobilityscooters",
+"date": "2019-01-15 16:08:00",
+"skill": "HTML, CSS ",
+"description": "<p>Skill Using Section wise html css</p>\n",
+"visit_website": "https://www.gomobilityscooters.com/Default.asp",
+"category": "html"
+},
+{
+"port_id": "16",
+"cat_id": "2",
+"caption": "Testing123",
+"port_img": "IMG_20171212_124538.jpg",
+"client": "Testing",
+"date": "2018-01-02 21:02:00",
+"skill": "test, ABC, TEST",
+"description": "sadasdasdasdsa dsdsa dsdsadsa dsadsadasd dsadsadsadsadsfgrgrg",
+"visit_website": "www.google.com",
+"category": "code"
+},
+{
+"port_id": "18",
+"cat_id": "1",
+"caption": "assasasas",
+"port_img": "IMG_20171214_145423.jpg",
+"client": "Testing sasasas",
+"date": "2018-01-02 21:02:00",
+"skill": "PPO, ABC, TEST",
+"description": "SSAASASASASAS ghfhgfhfghgf dsdsadsa dsadsadasd dsadsadsadsadsfgrgrg",
+"visit_website": "www.google.com",
+"category": "html"
+}
+    ]        
+}
+
